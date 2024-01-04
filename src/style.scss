@@ -1,0 +1,5 @@
+@use "./sections/hero.module.scss" as v;
+@use "./sections/footer.module.scss" as l;
+@use "./sections/navbar.module.scss" as k;
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons";
